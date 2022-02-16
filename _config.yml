@@ -21,11 +21,11 @@
 title: Aarush Arora
 email: aarush.arora@uwaterloo.ca
 description: >- # this means to ignore newlines until "baseurl:"
-  UW Grad Student | Build faster
+  UW Grad Student
 domain: iamg33k.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://iamg33k.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: __anonymous__
+twitter_username: ""
 github_username:  aarusharora
 
 # Build settings
